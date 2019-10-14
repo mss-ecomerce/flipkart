@@ -6,5 +6,5 @@ For Checking Purpose We are adding the somme data in This is the master branch c
 switching to another branch For SSH Keye some changes done For ssh
 successfully done sshkeyggen
 changing in remote repo 
-tring to push thuis code to my remote repo:wq
-
+tring to push thuis code to my remote repo
+againre shrtfgui;o'klh
